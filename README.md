@@ -69,7 +69,4 @@ This notebook performs an **Exploratory Data Analysis (EDA)** on a banking custo
   - Bank Deposits ↔ Checking Accounts ↔ Saving Accounts
   - Income ↔ Various financial indicators
 
-## Requirements
 
-```bash
-pip install pandas matplotlib seaborn numpy
